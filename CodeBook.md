@@ -120,3 +120,5 @@ Below an example of the name of measurements
   - Freq_BodyGyroJerkMag_Std
 
 P.S. The reader could find it useful to have a look into the README.txt file, cointained in the unzipped UCI HAR Dataset
+
+## From the data set above, a second, independent tidy data set with the average of each variable for each activity and each subject has been creatd
