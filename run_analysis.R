@@ -1,5 +1,5 @@
 # Let's set working directory -- absolute path
-setwd("/Users/joedibernardo/Projects/DATASCIENCE/GettingandCleaningData/week3/Course_Project")
+setwd("/Users/joedibernardo/Projects/DATASCIENCE/GettingandCleaningData/week3")
 
 # 1. Check if file exists, and download file 
 filename <- "Project_Dataset.zip"
